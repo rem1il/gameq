@@ -1,4 +1,3 @@
-// Файл: Footman.java
 package play;
 
 public class Footman {
@@ -8,5 +7,5 @@ public class Footman {
         this.healthPoints = healthPoints;
     }
 
-    // Другие методы, геттеры и сеттеры
+    
 }
